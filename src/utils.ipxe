@@ -75,7 +75,7 @@ set util_file pwfree91-x64.iso
 goto boot_memdisk
 
 :pogostick
-set util_path 192.168.1.120/images/cd140201.zip
+set util_path 192.168.1.120/images/wgetcd140201.zip
 set util_file cd140201.zip
 goto boot_memdisk
 
