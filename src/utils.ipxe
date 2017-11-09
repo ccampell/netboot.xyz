@@ -106,7 +106,7 @@ boot
 goto utils_exit
 
 :ubcd
-set util_path 192.168.1.120/images/ubcd537.iso
+set util_path http://192.168.1.120/images/ubcd537.iso
 set util_file ubcd537.iso
 goto boot_memdisk
 
